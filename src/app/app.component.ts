@@ -14,6 +14,10 @@ export class AppComponent {
     {
       url: 'https://ogimg.infoglobo.com.br/in/13895040-e78-79c/FT1086A/xquebec.jpg.pagespeed.ic.ve6QpxzeUx.jpg',
       description: 'Quebec'
+    },
+    {
+      url: 'https://www.infomoney.com.br/wp-content/uploads/2019/06/lisboa.jpg?fit=900%2C600&quality=50&strip=all',
+      description: 'Lisboa'
     }
   ]
 }
